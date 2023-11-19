@@ -1,2 +1,2 @@
-# Re1999_Assets
-Sorted Assets for Reverse 1999 CN version.
+# R Assets
+Sorted Assets for CN version.
