@@ -422,23 +422,27 @@
     },
     {
         "ID":"3073",
-        "Rarity":"",
-        "Name":""
+        "Rarity":"6",
+	"CN":"kerandia",
+        "Name":"Spanthodea"
     },
     {
         "ID":"3074",
-        "Rarity":"",
-        "Name":""
+        "Rarity":"6",
+	"CN":"aizila",
+        "Name":"Erza Theodore"
     },
     {
         "ID":"3075",
-        "Rarity":"",
-        "Name":""
+        "Rarity":"5",
+	"CN":"shasirong",
+        "Name":"Dessert Flannel"
     },
     {
         "ID":"3076",
-        "Rarity":"",
-        "Name":""
+        "Rarity":"5",
+	"CN":"hepingwulu",
+        "Name":"Ulu"
     },
     {
         "ID":"3077",
