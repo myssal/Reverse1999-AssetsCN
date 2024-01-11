@@ -459,6 +459,34 @@
         "Rarity":"6",
 	"CN":"6",
         "Name":"6"
-    }
-
+    },
+    {
+        "ID":"3080",
+        "Rarity":"",
+        "Name":""
+    },
+    {
+        "ID":"3081",
+        "Rarity":"",
+        "Name":""
+    },
+    {
+        "ID":"3082",
+        "Rarity":"5",
+	"CN":"xiaoyenisai",
+        "Name":"Yenisei"
+    },
+    {
+        "ID":"3083",
+        "Rarity":"6",
+	"CN":"quniang",
+        "Name":"Qu Niangzi"
+    },
+    {
+        "ID":"3084",
+        "Rarity":"6",
+	"CN":"gt",
+        "Name":"Getian"
+    },
+    
 ]
