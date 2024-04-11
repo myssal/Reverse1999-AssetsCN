@@ -405,6 +405,18 @@
 	"CN":"hepingwulu",
         "Name":"Ulu"
     },
+	{
+        "ID":"3077",
+        "Rarity":"6",
+	"CN":"beifangshaoge",
+        "Name":"Windsong"
+    },
+	{
+        "ID":"3078",
+        "Rarity":"5",
+	"CN":"afuxiwei",
+        "Name":"Avgust"
+    },
     {
         "ID":"3079",
         "Rarity":"6",
@@ -434,6 +446,11 @@
         "Rarity":"6",
 	"CN":"gt",
         "Name":"Getian"
+    },
+    {
+        "ID":"3087",
+        "Rarity":"6",
+	"CN":"weila",
+        "Name":"Vila"
     }
-    
 ]
