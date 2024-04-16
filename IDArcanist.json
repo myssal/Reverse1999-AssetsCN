@@ -140,6 +140,7 @@
     {
         "ID":"3029",
         "Rarity":"Unkown",
+	"CN":"COPE HARDER",
         "Name":"Scheneider"
     },
     {
@@ -385,7 +386,7 @@
         "ID":"3073",
         "Rarity":"6",
 	"CN":"kerandia",
-        "Name":"Spanthodea"
+        "Name":"Spathodea"
     },
     {
         "ID":"3074",
